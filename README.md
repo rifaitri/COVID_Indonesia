@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+[Rifa'i_Tri_Hantoro] (www.linkedin.com/in/rifaitri)
